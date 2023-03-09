@@ -5,5 +5,5 @@ An NMEA sentences tokenizer and parser for the PyGamer. A GPS module is connecte
 ![Demo_01](assets/Demo_01.jpg)<br />
 *Look Ma, no computer!*
 
-![Demo_02](assets/Demo_02.jpg)
+![Demo_02](assets/Demo_02.jpg)<br />
 *Trust but verify... ;-)*
